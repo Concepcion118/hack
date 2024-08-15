@@ -1,0 +1,14 @@
+body
+{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+.Wrapper 
+{
+    width: 300px;
+    height: 200px;
+    background-color: skyblue;
+    margin: 20px;
+}
